@@ -1,4 +1,4 @@
 # dogware
-upcoming roblox script hub, only supports combat warriors as of now
+scrapped project!! game scripts are boring
 # UI Library
-credits to https://github.com/miroeramaa/TurtleLib/blob/main/TurtleUiLib.lua for the ui right now
+credits to https://github.com/miroeramaa/TurtleLib/blob/main/TurtleUiLib.lua for the ui
